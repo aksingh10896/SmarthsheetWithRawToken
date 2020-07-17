@@ -1,0 +1,14 @@
+{
+  "name": "accesswithrawtoken",
+  "version": "1.0.0",
+  "description": "Access smartsheet with raw token",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Singh",
+  "license": "ISC",
+  "dependencies": {
+    "smartsheet": "^2.86.0"
+  }
+}
